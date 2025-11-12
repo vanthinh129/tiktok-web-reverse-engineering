@@ -6270,7 +6270,6 @@
                     slardarDomain: "mon.tiktokv.com",
                     pluginPathPrefix: "https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/slardar/fe/sdk-web/plugins"
                 };
-                window.__tsign = t;
                 var U = "https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/slardar/fe/sdk-web/plugins/"
                   , J = "mon16-normal-useast5.tiktokv.us"
                   , L = "https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/slardar/fe/sdk-web/plugins"
