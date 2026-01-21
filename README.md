@@ -7,4 +7,6 @@ xbogus: 'DFSzsIVLA6UANnPiCOAqp9DZrfBP',
 
 Source code for Nodejs  
 
+Demo: "http://209.145.62.33:6777/video?username=nbcsnl", replace "nbcsnl" by username you want to crawl
+
 contact for demo and buy t.me/vanthinh291
